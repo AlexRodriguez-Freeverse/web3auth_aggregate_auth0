@@ -10,8 +10,7 @@ import "./App.css";
 // import RPC from "./evm.web3";
 import RPC from './evm.ethers';
 
-const clientId =
-  "BK6Xwpoa40meGWjvW4wqf_yO-WA_x1ZkJScFA0meRBXdqUb2UycOw5h3FO-YzwjqBEHhZ_n78VsMZ8OY3RUn_zY"; // get from https://dashboard.web3auth.io
+const clientId =  "BK6Xwpoa40meGWjvW4wqf_yO-WA_x1ZkJScFA0meRBXdqUb2UycOw5h3FO-YzwjqBEHhZ_n78VsMZ8OY3RUn_zY"; // get from https://dashboard.web3auth.io
 
 const ethChainConfig = {
   chainNamespace: CHAIN_NAMESPACES.EIP155,
